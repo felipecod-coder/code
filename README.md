@@ -1,1 +1,1 @@
-Dev mobile
+Interfaces developed through cell phones.
